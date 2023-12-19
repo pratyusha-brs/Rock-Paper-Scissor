@@ -4,4 +4,4 @@ Project Title: ROCK PAPER SCISSOR GAME-PROJECT
 
 Technologie Stack: HTML, CSS, DOM elements
 
-you can live app [here]( https://pratyusha-brs.github.io/rock-paper-game/)
+you can live app [here]( https://pratyusha-brs.github.io/Rock-Paper-Scissor/)
